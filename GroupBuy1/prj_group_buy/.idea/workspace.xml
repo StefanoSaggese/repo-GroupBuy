@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99c84345-af41-42d9-9ae7-77b83f849591" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="prj_Group_Buy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="F_DBMS.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_DBMS.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+              <folding>
+                <element signature="e#264#626#0#PHP" expanded="false" />
+                <element signature="e#631#1044#0#PHP" expanded="false" />
+                <element signature="e#1050#1560#0#PHP" expanded="false" />
+                <element signature="e#1565#2755#0#PHP" expanded="false" />
+                <element signature="e#3134#3299#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="F_Utente_Compratore.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Utente_Compratore.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="65" column="62" lean-forward="false" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
+              <folding>
+                <element signature="e#579#649#0#PHP" expanded="false" />
+                <element signature="e#654#726#0#PHP" expanded="false" />
+                <element signature="e#732#1273#0#PHP" expanded="false" />
+                <element signature="e#1278#2668#0#PHP" expanded="false" />
+                <element signature="e#2674#3043#0#PHP" expanded="false" />
+                <element signature="e#4159#4383#0#PHP" expanded="false" />
+                <element signature="e#4388#5465#0#PHP" expanded="false" />
+                <marker date="1496933797038" expanded="true" signature="2361:2627" ph="INSERT INTO `utente_compratore`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E_Offerta.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Offerta.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#277#400#0#PHP" expanded="false" />
+                <element signature="e#406#695#0#PHP" expanded="false" />
+                <element signature="e#701#795#0#PHP" expanded="false" />
+                <element signature="e#801#895#0#PHP" expanded="false" />
+                <element signature="e#901#1001#0#PHP" expanded="false" />
+                <element signature="e#1007#1155#0#PHP" expanded="false" />
+                <element signature="e#1161#1268#0#PHP" expanded="false" />
+                <element signature="e#1274#1358#0#PHP" expanded="false" />
+                <element signature="e#1364#1448#0#PHP" expanded="false" />
+                <element signature="e#1454#1542#0#PHP" expanded="false" />
+                <element signature="e#1548#1642#0#PHP" expanded="false" />
+                <element signature="e#1648#1732#0#PHP" expanded="false" />
+                <element signature="e#1738#1838#0#PHP" expanded="false" />
+                <element signature="e#1844#2409#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="F_Utente_Venditore.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Utente_Venditore.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="76" column="5" lean-forward="false" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+              <folding>
+                <element signature="e#192#264#0#PHP" expanded="false" />
+                <element signature="e#270#800#0#PHP" expanded="false" />
+                <element signature="e#805#2053#0#PHP" expanded="false" />
+                <element signature="e#2059#2434#0#PHP" expanded="false" />
+                <element signature="e#2439#3396#0#PHP" expanded="false" />
+                <marker date="1497189382758" expanded="true" signature="1633:2012" ph="INSERT INTO `utente_compratore`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="F_Scaglione.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Scaglione.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <element signature="e#178#250#0#PHP" expanded="false" />
+                <element signature="e#256#970#0#PHP" expanded="false" />
+                <element signature="e#976#1708#0#PHP" expanded="false" />
+                <marker date="1496995410856" expanded="true" signature="747:929" ph="INSERT INTO `scaglioni_prezzo`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E_Utente_Venditore.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Venditore.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+              <folding>
+                <element signature="e#333#784#0#PHP" expanded="false" />
+                <element signature="e#790#890#0#PHP" expanded="false" />
+                <element signature="e#896#1002#0#PHP" expanded="false" />
+                <element signature="e#1008#1092#0#PHP" expanded="false" />
+                <element signature="e#1098#1186#0#PHP" expanded="false" />
+                <element signature="e#1192#1268#0#PHP" expanded="false" />
+                <element signature="e#1274#1374#0#PHP" expanded="false" />
+                <element signature="e#1411#1862#0#PHP" expanded="false" />
+                <element signature="e#1868#2278#0#PHP" expanded="false" />
+                <element signature="e#2284#2431#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E_Utente_Compratore.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Compratore.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#216#332#0#PHP" expanded="false" />
+                <element signature="e#776#864#0#PHP" expanded="false" />
+                <element signature="e#870#1008#0#PHP" expanded="false" />
+                <element signature="e#1014#1100#0#PHP" expanded="false" />
+                <element signature="e#1106#1188#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Entity/E_Utente.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Misura.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Scaglione.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Data.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Offerta.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Utente_Venditore.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Lista_dei_Desideri.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Utente_Compratore.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Prenotazione.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Gruppo_di_Acquisto.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Negozio.php" />
+        <option value="$PROJECT_DIR$/Entity/E_Catalogo.php" />
+        <option value="$PROJECT_DIR$/Foundation/F_Offerta.php" />
+        <option value="$PROJECT_DIR$/Foundation/F_DataBase.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_DataBase.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_Utente.php" />
+        <option value="$PROJECT_DIR$/Files_di_Configurazione/Variabili_Configurazione_DB.php" />
+        <option value="$PROJECT_DIR$/Classi/Entity/E_Catalogo.php" />
+        <option value="$PROJECT_DIR$/Classi/Entity/E_Utente.php" />
+        <option value="$PROJECT_DIR$/Classi/Entity/E_Utente_Compratore.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_Utente_Compratore.php" />
+        <option value="$PROJECT_DIR$/Classi/Entity/E_Scaglione.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_DBMS.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_Offerta.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_Offerta_parziale.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_Scaglione.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_Presentazione_Offerta.php" />
+        <option value="$PROJECT_DIR$/Classi/Entity/E_Prenotazione.php" />
+        <option value="$PROJECT_DIR$/Classi/Entity/E_Offerta.php" />
+        <option value="$PROJECT_DIR$/Classi/Foundation/F_Utente_Venditore.php" />
+        <option value="$PROJECT_DIR$/Classi/Entity/E_Utente_Venditore.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SqlDialectInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="prj_Group_Buy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="prj_Group_Buy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Files_di_Configurazione">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="prj_Group_Buy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Classi">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Foundation">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="prj_Group_Buy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Classi">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Entity">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prj_Group_Buy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prj_Group_Buy" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Files_di_Configurazione" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prj_Group_Buy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prj_Group_Buy" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Foundation" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prj_Group_Buy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prj_Group_Buy" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Utente\PhpstormProjects\prj_Group_Buy\Classi" />
+      <recent name="C:\Users\Utente\PhpstormProjects\prj_Group_Buy\Entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99c84345-af41-42d9-9ae7-77b83f849591" name="Default" comment="" />
+      <created>1495703815888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495703815888</updated>
+      <workItem from="1495703817075" duration="4363000" />
+      <workItem from="1495708370118" duration="1431000" />
+      <workItem from="1495716746133" duration="12016000" />
+      <workItem from="1495781745937" duration="1279000" />
+      <workItem from="1495783765850" duration="22000" />
+      <workItem from="1496303415216" duration="8729000" />
+      <workItem from="1496317804560" duration="12451000" />
+      <workItem from="1496331658515" duration="7000" />
+      <workItem from="1496410527398" duration="5492000" />
+      <workItem from="1496530710449" duration="61000" />
+      <workItem from="1496582954430" duration="7196000" />
+      <workItem from="1496737478016" duration="78000" />
+      <workItem from="1496907278883" duration="134000" />
+      <workItem from="1496907544106" duration="189000" />
+      <workItem from="1496907925658" duration="306000" />
+      <workItem from="1496912135508" duration="5866000" />
+      <workItem from="1496932187648" duration="4738000" />
+      <workItem from="1496993510661" duration="9708000" />
+      <workItem from="1497011098748" duration="9520000" />
+      <workItem from="1497186420113" duration="3467000" />
+      <workItem from="1497855457841" duration="875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87928000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21255673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1633888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Compratore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files_di_Configurazione/Variabili_Configurazione_DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Utente_Compratore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="72" column="11" lean-forward="true" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_DBMS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Indirizzo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Compratore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files_di_Configurazione/Variabili_Configurazione_DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Utente_Compratore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="72" column="11" lean-forward="true" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Prenotazione.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#203#359#0#PHP" expanded="false" />
+            <element signature="e#365#477#0#PHP" expanded="false" />
+            <element signature="e#483#625#0#PHP" expanded="false" />
+            <element signature="e#631#721#0#PHP" expanded="false" />
+            <element signature="e#727#823#0#PHP" expanded="false" />
+            <element signature="e#871#1296#0#PHP" expanded="false" />
+            <element signature="e#1301#1524#0#PHP" expanded="false" />
+            <element signature="e#1530#1803#0#PHP" expanded="false" />
+            <element signature="e#1808#2186#0#PHP" expanded="false" />
+            <element signature="e#2192#2354#0#PHP" expanded="false" />
+            <element signature="e#2359#2580#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Misura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Offerta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+          <folding>
+            <element signature="e#277#400#0#PHP" expanded="false" />
+            <element signature="e#406#695#0#PHP" expanded="false" />
+            <element signature="e#701#795#0#PHP" expanded="false" />
+            <element signature="e#801#895#0#PHP" expanded="false" />
+            <element signature="e#901#1001#0#PHP" expanded="false" />
+            <element signature="e#1007#1155#0#PHP" expanded="false" />
+            <element signature="e#1161#1268#0#PHP" expanded="false" />
+            <element signature="e#1274#1358#0#PHP" expanded="false" />
+            <element signature="e#1364#1448#0#PHP" expanded="false" />
+            <element signature="e#1454#1542#0#PHP" expanded="false" />
+            <element signature="e#1548#1642#0#PHP" expanded="false" />
+            <element signature="e#1648#1732#0#PHP" expanded="false" />
+            <element signature="e#1738#1838#0#PHP" expanded="false" />
+            <element signature="e#1844#2409#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Scaglione.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Venditore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Gruppo_di_Acquisto.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Compratore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Lista_dei_Desideri.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Catalogo.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Negozio.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Prenotazione.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="78" column="10" lean-forward="false" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
+          <folding>
+            <element signature="e#203#359#0#PHP" expanded="false" />
+            <element signature="e#365#477#0#PHP" expanded="false" />
+            <element signature="e#483#625#0#PHP" expanded="false" />
+            <element signature="e#631#721#0#PHP" expanded="false" />
+            <element signature="e#727#823#0#PHP" expanded="false" />
+            <element signature="e#871#1296#0#PHP" expanded="false" />
+            <element signature="e#1301#1524#0#PHP" expanded="false" />
+            <element signature="e#1530#1803#0#PHP" expanded="false" />
+            <element signature="e#1808#2186#0#PHP" expanded="false" />
+            <element signature="e#2192#2354#0#PHP" expanded="false" />
+            <element signature="e#2359#2580#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Misura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Offerta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+          <folding>
+            <element signature="e#277#400#0#PHP" expanded="false" />
+            <element signature="e#406#695#0#PHP" expanded="false" />
+            <element signature="e#701#795#0#PHP" expanded="false" />
+            <element signature="e#801#895#0#PHP" expanded="false" />
+            <element signature="e#901#1001#0#PHP" expanded="false" />
+            <element signature="e#1007#1155#0#PHP" expanded="false" />
+            <element signature="e#1161#1268#0#PHP" expanded="false" />
+            <element signature="e#1274#1358#0#PHP" expanded="false" />
+            <element signature="e#1364#1448#0#PHP" expanded="false" />
+            <element signature="e#1454#1542#0#PHP" expanded="false" />
+            <element signature="e#1548#1642#0#PHP" expanded="false" />
+            <element signature="e#1648#1732#0#PHP" expanded="false" />
+            <element signature="e#1738#1838#0#PHP" expanded="false" />
+            <element signature="e#1844#2409#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Scaglione.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Venditore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Gruppo_di_Acquisto.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Compratore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Lista_dei_Desideri.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Negozio.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Catalogo.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Lista_dei_Desideri.php" />
+    <entry file="file://$PROJECT_DIR$/Foundation/F_Catalogo.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Negozio.php" />
+    <entry file="file://$USER_HOME$/Desktop/Ehilà/Docs/Programmazione_per_il_Web/Unibox-Ajax-master/Classes/Foundation/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Indirizzo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files_di_Configurazione/Variabili_Configurazione_DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Catalogo.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Gruppo_di_Acquisto.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/funzionalità_che_non_so_dove_mettere.php" />
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Misura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Prenotazione.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="e#203#359#0#PHP" expanded="false" />
+            <element signature="e#365#477#0#PHP" expanded="false" />
+            <element signature="e#483#625#0#PHP" expanded="false" />
+            <element signature="e#631#721#0#PHP" expanded="false" />
+            <element signature="e#727#823#0#PHP" expanded="false" />
+            <element signature="e#871#1296#0#PHP" expanded="false" />
+            <element signature="e#1301#1524#0#PHP" expanded="false" />
+            <element signature="e#1530#1803#0#PHP" expanded="false" />
+            <element signature="e#1808#2186#0#PHP" expanded="false" />
+            <element signature="e#2192#2354#0#PHP" expanded="false" />
+            <element signature="e#2359#2580#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Scaglione.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="e#246#386#0#PHP" expanded="false" />
+            <element signature="e#392#703#0#PHP" expanded="false" />
+            <element signature="e#709#783#0#PHP" expanded="false" />
+            <element signature="e#789#927#0#PHP" expanded="false" />
+            <element signature="e#933#1073#0#PHP" expanded="false" />
+            <element signature="e#1079#1187#0#PHP" expanded="false" />
+            <element signature="e#1193#1261#0#PHP" expanded="false" />
+            <element signature="e#1267#1355#0#PHP" expanded="false" />
+            <element signature="e#1361#1451#0#PHP" expanded="false" />
+            <element signature="e#1457#1545#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Presentazione_Offerta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#51#0#PHP" expanded="false" />
+            <element signature="e#241#301#0#PHP" expanded="false" />
+            <element signature="e#304#1955#0#PHP" expanded="false" />
+            <element signature="e#1961#3294#0#PHP" expanded="false" />
+            <marker date="1497014591476" expanded="true" signature="1438:1907" ph="INSERT INTO `offerta`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_DBMS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+          <folding>
+            <element signature="e#264#626#0#PHP" expanded="false" />
+            <element signature="e#631#1044#0#PHP" expanded="false" />
+            <element signature="e#1050#1560#0#PHP" expanded="false" />
+            <element signature="e#1565#2755#0#PHP" expanded="false" />
+            <element signature="e#3134#3299#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Compratore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#216#332#0#PHP" expanded="false" />
+            <element signature="e#776#864#0#PHP" expanded="false" />
+            <element signature="e#870#1008#0#PHP" expanded="false" />
+            <element signature="e#1014#1100#0#PHP" expanded="false" />
+            <element signature="e#1106#1188#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Utente_Compratore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="65" column="62" lean-forward="false" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
+          <folding>
+            <element signature="e#579#649#0#PHP" expanded="false" />
+            <element signature="e#654#726#0#PHP" expanded="false" />
+            <element signature="e#732#1273#0#PHP" expanded="false" />
+            <element signature="e#1278#2668#0#PHP" expanded="false" />
+            <element signature="e#2674#3043#0#PHP" expanded="false" />
+            <element signature="e#4159#4383#0#PHP" expanded="false" />
+            <element signature="e#4388#5465#0#PHP" expanded="false" />
+            <marker date="1496933797038" expanded="true" signature="2361:2627" ph="INSERT INTO `utente_compratore`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Utente_Venditore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="76" column="5" lean-forward="false" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <element signature="e#192#264#0#PHP" expanded="false" />
+            <element signature="e#270#800#0#PHP" expanded="false" />
+            <element signature="e#805#2053#0#PHP" expanded="false" />
+            <element signature="e#2059#2434#0#PHP" expanded="false" />
+            <element signature="e#2439#3396#0#PHP" expanded="false" />
+            <marker date="1497189382758" expanded="true" signature="1633:2012" ph="INSERT INTO `utente_compratore`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Foundation/F_Scaglione.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="e#178#250#0#PHP" expanded="false" />
+            <element signature="e#256#970#0#PHP" expanded="false" />
+            <element signature="e#976#1708#0#PHP" expanded="false" />
+            <marker date="1496995410856" expanded="true" signature="747:929" ph="INSERT INTO `scaglioni_prezzo`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Offerta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#277#400#0#PHP" expanded="false" />
+            <element signature="e#406#695#0#PHP" expanded="false" />
+            <element signature="e#701#795#0#PHP" expanded="false" />
+            <element signature="e#801#895#0#PHP" expanded="false" />
+            <element signature="e#901#1001#0#PHP" expanded="false" />
+            <element signature="e#1007#1155#0#PHP" expanded="false" />
+            <element signature="e#1161#1268#0#PHP" expanded="false" />
+            <element signature="e#1274#1358#0#PHP" expanded="false" />
+            <element signature="e#1364#1448#0#PHP" expanded="false" />
+            <element signature="e#1454#1542#0#PHP" expanded="false" />
+            <element signature="e#1548#1642#0#PHP" expanded="false" />
+            <element signature="e#1648#1732#0#PHP" expanded="false" />
+            <element signature="e#1738#1838#0#PHP" expanded="false" />
+            <element signature="e#1844#2409#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classi/Entity/E_Utente_Venditore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="e#333#784#0#PHP" expanded="false" />
+            <element signature="e#790#890#0#PHP" expanded="false" />
+            <element signature="e#896#1002#0#PHP" expanded="false" />
+            <element signature="e#1008#1092#0#PHP" expanded="false" />
+            <element signature="e#1098#1186#0#PHP" expanded="false" />
+            <element signature="e#1192#1268#0#PHP" expanded="false" />
+            <element signature="e#1274#1374#0#PHP" expanded="false" />
+            <element signature="e#1411#1862#0#PHP" expanded="false" />
+            <element signature="e#1868#2278#0#PHP" expanded="false" />
+            <element signature="e#2284#2431#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
